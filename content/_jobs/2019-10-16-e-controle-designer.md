@@ -2,12 +2,12 @@
 roles: une ou un designer en charge de la recherche utilisateurs
 title: "beta.gouv recrute : une ou un designer pour e.contrôle"
 startup: e-contrôle
-open: false
+open: open
 ---
 
 e.contrôle a pour objectif de simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.
 
-Ce service numérique vise à réduire le temps gaspillé par les agents à classer, trier et renommer des milliers de documents échangés afin de leur permettre de se concentrer sur leurs missions à forte valeur ajoutée:
+Ce service numérique vise à réduire le temps perdu par les agents à classer, trier et renommer des milliers de documents échangés afin de leur permettre de se concentrer sur leurs missions à forte valeur ajoutée:
 * Pour les audités : réaliser leur mission de service public;
 * Pour les auditeurs : analyser ces documents et rédiger les rapports destinés à la bonne information des citoyens,
 * Pour les agents des greffes : concourir au respect des procédures et à la qualité des productions.
@@ -21,7 +21,7 @@ Notre équipe souhaite faciliter les échanges de documents durant les contrôle
 
 Ces échanges peuvent être divisés en deux phases complémentaires :
 * Durant la “phase de contrôle”, les auditeurs adressent des questionnaires aux audités afin de récolter leurs réponses;
-* Avant et après la phase de contrôle, les greffiers garant de la procédure, doivent s’assurer du bon envoi et de la bonne réception des courriers officiels aux audités. Nous parlons d’une “phase de correspondance”
+* Avant et après la phase de contrôle, les greffiers garant de la procédure, doivent s’assurer du bon envoi et de la bonne réception des courriers officiels aux audités. Nous parlons d’une “phase de correspondance”.
 
 La première version du service est opérationnelle depuis janvier 2019 et a d’abord cherché à résoudre les difficultés rencontrées durant la “phase de contrôle”:
 * les auditeurs sont autonomes pour créer des espaces de dépôts, y renseigner leur questionnaire, ouvrir les droits d’accès à leur équipe et aux audités, visualiser/ explorer les réponses déjà classées et renommées, et être alertés dès que des documents sont déposés.
