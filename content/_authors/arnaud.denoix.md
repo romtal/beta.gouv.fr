@@ -7,6 +7,7 @@ missions:
     end:
     status: independent
 startups:
+  - itou
   - avril
   - la-bonne-formation
   - memo
